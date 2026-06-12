@@ -1,5 +1,4 @@
 {
-  "spider": "https://raw.githubusercontent.com/q215613905/TVBoxOS/main/spider/tvbox.jar",
   "sites": [
     {
       "key": "viptv",
